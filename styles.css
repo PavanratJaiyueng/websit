@@ -1,0 +1,51 @@
+.shape {
+    margin: 10px;
+    display: grid;
+    height: 730px;
+  }
+  .blockStatus {
+    background-color: #FFF0F5;
+    width: 100%;
+    height: auto;
+    justify-items: stretch;
+    align-items: stretch;
+    border-radius: 10px;
+    height: 900px;
+    padding: 0px;
+  }
+  .pic1{
+    margin: 10px;
+  }
+  .h1{
+    text-align: center;
+    padding: 20px;
+  }
+  .main-content {
+    display: flex;
+  }
+  .rectangle {
+    background-color: #e1f9f9;
+    border: 1px solid #ffffff;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    height: 220px;
+
+}
+.rectangle h2 {
+    margin: 0;
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    line-height: 30px;
+}
+.g1{
+    margin-left: 150px;
+    text-align: center;
+    line-height: 50px;
+}
+.g2{
+    width: 800px;
+    margin-left: 300px;
+}
